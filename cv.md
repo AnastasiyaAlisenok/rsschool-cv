@@ -24,6 +24,6 @@
 
   ## Code example
 
-  ~ function multiply(a, b){
+  ~~~ function multiply(a, b){
     a * b
-    } ~
+    } ~~~
