@@ -1,0 +1,82 @@
+body {
+    width: 1280px;
+    margin: 0 auto;
+    font-family: 'EB Garamond', serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: rgb(91, 70, 53);
+    padding: 40px;
+    background-color: rgb(206, 203, 199);
+}
+.main-header {
+    width: 1280px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    padding: 15px;  
+    background-color: rgb(234, 229, 222); 
+    box-shadow: 10px 10px rgba(91, 70, 53, 0.5); 
+    }
+.navigation-list {
+    width: 1280px;
+    display: flex;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    justify-content: space-between;
+}
+.nav-item {
+    width: 170px;
+    font-size: 22px;
+    font-weight: bold;
+    text-transform: uppercase;
+    
+}
+.nav-item a {
+    text-decoration: none;
+    color: rgb(91, 70, 53);
+    padding: 5px 0;
+}
+main {
+    width: 1280px;
+    margin: 0;
+    display: flex;
+    
+    }
+.first-container {
+    width: 350px;
+    margin-right: 50px;
+    background-color: rgb(234, 229, 222);  
+    box-shadow: 10px 10px rgba(91, 70, 53, 0.5);
+}
+.myphoto {
+    border-radius: 3px;
+    box-shadow: 10px 10px rgba(91, 70, 53, 0.5);
+    }
+.second-container {
+    width: 910px;
+    background-color: rgb(234, 229, 222); 
+    box-shadow: 10px 10px rgba(91, 70, 53, 0.5);
+}
+.main-title {
+    width: 1280px;
+    height: 200px;
+    font-size: 50px;
+    text-decoration: underline;
+    text-decoration-color: rgb(88, 38, 2);
+    text-decoration-thickness: 2px;
+    text-underline-offset: 15px;
+    text-underline-position: under;
+    padding-left: 50px;
+}
+h2 {
+    color: rgb(234, 229, 222);
+    background-color: rgb(91, 70, 53);
+    padding-right: 0;
+    padding-left: 50px;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+.main-text {
+    width: 600px;
+    padding: 5px 40px;
+}
