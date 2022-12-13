@@ -55,6 +55,8 @@ main {
     box-shadow: 10px 10px rgba(91, 70, 53, 0.5);
 }
 .myphoto {
+    width: 350px;
+    height: auto;
     border-radius: 3px;
     box-shadow: 10px 10px rgba(91, 70, 53, 0.5);
     }
