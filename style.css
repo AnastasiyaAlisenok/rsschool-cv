@@ -23,14 +23,15 @@ body {
     padding: 0;
     margin: 0;
     list-style: none;
-    justify-content: space-between;
-}
+    }
 .nav-item {
-    width: 170px;
     font-size: 22px;
     font-weight: bold;
     text-transform: uppercase;
-    
+    margin-right: 75px;
+}
+.nav-item:last-child {
+    margin-right: 0;
 }
 .nav-item a {
     text-decoration: none;
