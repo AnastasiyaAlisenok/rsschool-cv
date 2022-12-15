@@ -135,6 +135,21 @@ h2 {
 .skills-list li {
     margin-bottom: 15px;
 }
+.project-link {
+    font-weight: 700;
+    color: rgb(91, 70, 53);
+    text-decoration: none;
+    padding-left: 40px;
+    }
+.project-link:hover {
+    color: rgb(206, 191, 50);
+}
+.project-photo {
+    display: block;
+    padding-left: 40px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
 .code {
     display: block;
     padding-left: 40px;
