@@ -12,7 +12,7 @@
 
  ## About me:
 
-  *I'm 33 years old. I have already worked as a bank worker about 10 years. Every 3 years I like to get new knoledges and skills and change the direction of my work. This year I would like to learn new profession - frontend developer.*
+  *I'm 34 years old. I have already worked as a bank worker about 11 years. Every 3 years I like to get new knoledges and skills and change the direction of my work. This year I would like to learn new profession - frontend developer.*
 
   *My strenghts are responsibility, the desire to get new knowledge and change my life.*
 
@@ -26,9 +26,12 @@
   ## Code example
 
   ```
-  function multiply(a, b){
-    a * b
-  }
+  var countBits = function(n) {
+      let result;
+      n = n.toString(2);
+      result = n.replace(/0/g, '');
+      return result.length;
+    };
 
   ```
   ## Expirience
@@ -43,7 +46,7 @@
 
   **Courses:** 
   * HTML Academy - "Start to frontend".
-  * RS Schools Course "JavaScript/Front-end. Stage 0" (in progress)
+  * RS Schools Course "JavaScript/Front-end. Stage 0";
 
   ## English
 
